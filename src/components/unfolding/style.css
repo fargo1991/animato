@@ -1,0 +1,9 @@
+.amt-unfolding-animator{
+    /*background-color: coral;*/
+    height: 200px;
+    width: 200px;
+    margin: 50px;
+    margin-top:25px; ;
+    background-color: #eaeaea;
+    overflow: hidden;
+}

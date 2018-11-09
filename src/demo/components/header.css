@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    padding: 0px;
+    background-color: coral;
+    display: block;
+    box-shadow: 0px -10px 10px 10px rgba(200,200,200,1);
+}
+.header-links{
+    padding: 20px;
+}
+.header-link{
+    margin: 5px;
+    display: inline-block;
+    color: #fff;
+}
+.header-link.active{
+    text-decoration: underline;
+}
